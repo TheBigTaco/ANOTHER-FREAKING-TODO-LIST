@@ -1,0 +1,9 @@
+/Users/Guest/Projects/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
+/Users/Guest/Projects/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.json
+/Users/Guest/Projects/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.dev.json
+/Users/Guest/Projects/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Guest/Projects/ToDoList/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/Guest/Projects/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.csproj.CoreCompileInputs.cache
+/Users/Guest/Projects/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
+/Users/Guest/Projects/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Guest/Projects/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
