@@ -7,3 +7,13 @@
 /Users/Guest/Projects/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
 /Users/Guest/Projects/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
 /Users/Guest/Projects/ToDoList/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.deps.json
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.json
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.runtimeconfig.dev.json
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/bin/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.AssemblyInfo.cs
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.dll
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.pdb
+/Users/Guest/Desktop/ANOTHER-FREAKING-TODO-LIST/ToDoList/obj/Debug/netcoreapp1.1/ToDoList.csproj.CoreCompileInputs.cache
