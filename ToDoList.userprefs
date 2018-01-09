@@ -1,11 +1,12 @@
 ﻿<Properties StartupConfiguration="{C5AA29B7-B5C2-43FB-A9C6-491255E0829F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoList/Models/Repositories/EFItemRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoList/Controllers/ItemsController.cs">
     <Files>
       <File FileName="ToDoList.Tests/ModelTests/ItemTests.cs" Line="8" Column="16" />
       <File FileName="ToDoList.Tests/ControllerTests/ItemsControllerTest.cs" Line="35" Column="3" />
       <File FileName="ToDoList/Models/Item.cs" Line="14" Column="20" />
       <File FileName="ToDoList/Models/Repositories/IItemRepository.cs" Line="15" Column="2" />
-      <File FileName="ToDoList/Models/Repositories/EFItemRepository.cs" Line="13" Column="2" />
+      <File FileName="ToDoList/Models/Repositories/EFItemRepository.cs" Line="36" Column="2" />
+      <File FileName="ToDoList/Controllers/ItemsController.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
